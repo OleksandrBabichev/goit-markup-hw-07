@@ -551,7 +551,7 @@ img {
     background-color: var(--hover-tet-color);
 }
 
-.icon-foot {
+.invite__icon {
     width: 20px;
     height: 20px;
     fill: var(--primary-bcg-color);
@@ -774,7 +774,7 @@ img {
     appearance: none;
 }
 
-.check__icon {
+.modal__check-icon {
     border: 1px solid var(--primary-text-color);
     border-radius: 4px;
 

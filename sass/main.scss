@@ -1,12 +1,13 @@
-$primary-text-color: #757575;
-$title-text-color: #212121;
-$hover-tet-color: #2196F3;
-$primary-bcg-color: #FFFFFF;
-$secondary-bcg-color: #F5F4FA;
-$footer-bcg-color: #2F303A;
-$primary-link-color: #AFB1B8;
-$transition-dur-func: 950ms, cubic-bezier(0.4, 0, 0.2, 1);
-
-body {
-    background-color: $hover-tet-color;
-}
+@import './utils/vars' ;
+@import './utils/common';
+@import './components/logo';
+@import './components/header';
+@import './components/hero';
+@import './components/features';
+@import './components/technology';
+@import './components/team';
+@import './components/team-socials';
+@import './components/clients';
+@import './components/address';
+@import './components/invite';
+@import './components/modal';
